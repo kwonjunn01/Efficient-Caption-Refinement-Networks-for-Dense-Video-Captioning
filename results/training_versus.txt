@@ -1,0 +1,1237 @@
+epoch is 0 
+epoch is 0 
+origin caption: a man is a man
+revision caption: a man is a man
+epoch is 1 
+origin caption: a man is seen in a man is seen
+revision caption: a man is seen in a <UNK> and the camera
+epoch is 2 
+origin caption: a man is seen in a <UNK> and a man is seen
+revision caption: a man is seen standing in a <UNK> and a man is shown
+epoch is 0 
+origin caption: a man is a man is the camera
+revision caption: a man is a man is the man
+epoch is 1 
+origin caption: a man is seen in a <UNK> and the camera
+revision caption: a man is seen in a <UNK> and the camera
+epoch is 2 
+origin caption: a man is seen sitting on a <UNK>
+revision caption: a man is seen sitting on a <UNK>
+epoch is 3 
+origin caption: a man is seen standing in a man is seen standing on a <UNK> and a man is seen standing on a <UNK> and a man is seen standing on a <UNK>
+revision caption: the man is seen standing on the camera
+epoch is 4 
+origin caption: a man is seen standing in a <UNK> and a man in a man in a man in a <UNK> and a man in a man in a <UNK> and a man in a <UNK>
+revision caption: a man is seen standing in a room
+epoch is 5 
+origin caption: a man is seen speaking to the camera
+revision caption: the man continues to the camera and the camera
+epoch is 6 
+origin caption: a man is seen speaking to the camera
+revision caption: a man is seen speaking to the camera
+epoch is 0 
+origin caption: a man is seen in a man is seen
+revision caption: a man is seen in a man is seen
+epoch is 1 
+origin caption: a man is seen standing in a <UNK> and a man is seen speaking to the camera
+revision caption: a man is seen standing in a <UNK> and a man is shown of a <UNK> and a man is seen speaking to the camera
+epoch is 2 
+origin caption: a man is seen speaking to the camera
+revision caption: the man then begins to the camera and the camera
+epoch is 3 
+origin caption: a man is seen sitting in a room
+revision caption: a man is seen sitting on a large field
+epoch is 4 
+origin caption: a man is seen standing in a room and a man in a room
+revision caption: the man is seen standing in a room and the man in the end of the man
+epoch is 5 
+origin caption: the man continues to play the ball and the man continues to play the ball
+revision caption: the man continues to play the ball and the man continues to play the ball
+epoch is 6 
+origin caption: a man is seen standing in a gym and leads into a man in a room
+revision caption: they are playing a game of war
+epoch is 7 
+origin caption: a man is seen speaking to the camera while holding a tool to cut the camera
+revision caption: a woman is seen speaking to the camera while holding a tool to cut the camera
+epoch is 8 
+origin caption: a man is seen standing in a room holding a tennis racket and walks away
+revision caption: a man is seen standing on a horse with a stick in a large room
+epoch is 9 
+origin caption: a man in a red shirt is standing in a gym
+revision caption: they continue playing and ends by jumping off
+epoch is 10 
+origin caption: she then puts the knife on the <UNK> then she puts the knife on the <UNK> then she puts the <UNK> then she puts the <UNK> on the <UNK> then she puts the <UNK> and the girl puts the contact lens in the end
+revision caption: a woman is seen speaking to the camera
+epoch is 11 
+origin caption: the man continues playing the instrument while the camera captures his movements
+revision caption: a man in a black shirt is playing the drums
+epoch is 12 
+origin caption: a man is seen riding along the water while a man is seen speaking to the camera
+revision caption: we see the closing title screen
+epoch is 13 
+origin caption: a man is seen speaking to the camera and leads into a man speaking to the camera and leads into him holding up a tool and begins to play
+revision caption: the woman is then shown in the <UNK> then a woman and woman are talking to the camera
+epoch is 14 
+origin caption: the man then begins playing the drums and ends with the man
+revision caption: there is a woman in a gym
+epoch is 15 
+origin caption: a man is seen standing on a diving board with a man in a pool and a woman walks away
+revision caption: man is standing in the pool talking to the camera
+epoch is 16 
+origin caption: the man in a blue shirt is talking to the camera
+revision caption: they begin to play a game of foosball
+epoch is 17 
+origin caption: a man is seen standing on a set of uneven bars while holding a stick
+revision caption: he then jumps on the ground and begins to spin himself around
+epoch is 18 
+origin caption: a man is seen standing on a camel holding a stick and leads into him riding around on a horse
+revision caption: a man is seen sitting in a chair with one another and leads into him riding around on a horse
+epoch is 19 
+origin caption: the girl then puts her hands in her mouth and puts it in her mouth
+revision caption: a woman is sitting in a chair knitting
+epoch is 20 
+origin caption: a man is seen speaking to the camera while holding a paddle and leads into him riding down a river
+revision caption: the people are seen riding in a canoe and leads into people riding down the river
+epoch is 21 
+origin caption: a man is seen riding along the water in a kayak with a large group of people
+revision caption: <UNK> a man in a black coat is talking to the camera
+epoch is 22 
+origin caption: a man is seen speaking to the camera while holding a stick and begins cutting the grass
+revision caption: the man then takes a hose and begins to apply the dog with a dog on the <UNK> then a dog runs with the dog and he runs it with a dog
+epoch is 23 
+origin caption: a man is seen speaking to the camera and leads into him holding a tennis racket and speaking to the camera
+revision caption: he is then seen playing a game of tennis ball in a field while the camera captures his movements
+epoch is 24 
+origin caption: the man continues to cut the grass and continues to speak to the camera
+revision caption: a man is outside in a yard
+epoch is 25 
+origin caption: the woman continues speaking as the camera pans around the stage and ends with her posing and speaking to the camera
+revision caption: the man and woman talk to the camera
+epoch is 26 
+origin caption: she then dismounts her arms in the air and lands on the mat
+revision caption: a gymnast is seen standing ready with her arms up and down her hands
+epoch is 27 
+origin caption: a man is seen standing in front of a large crowd and begins performing a gymnastics routine
+revision caption: a young boy is seen running down a track and throwing a ball off into the distance
+epoch is 28 
+origin caption: a man is seen speaking to the camera while holding a stick and begins climbing up a rock wall
+revision caption: a man in a blue shirt and the camera captures him from his feet
+epoch is 29 
+origin caption: a man is seen speaking to the camera and leads into him cutting a glass and pouring out liquids
+revision caption: a man is seen speaking to a camera while a man speaks to a group of people
+epoch is 30 
+origin caption: a person is seen holding a rag and begins moving the back of the bike
+revision caption: a person's hands are seen moving around a table and leads into the person putting on a pair of shoes
+epoch is 31 
+origin caption: a man is seen sitting on a table with a man in his hands
+revision caption: two men are sitting at a table
+epoch is 32 
+origin caption: the man in black shirt is standing in a court
+revision caption: a man in a black shirt is talking
+epoch is 33 
+origin caption: a man is seen speaking to the camera while holding a card and leads into him speaking
+revision caption: a man is seen speaking to the camera with several shots of him performing various martial arts moves with one another
+epoch is 34 
+origin caption: a young girl is seen sitting in a chair with a towel on her lap and rubbing her face down with a towel
+revision caption: the girl wipes her face with the towel
+epoch is 35 
+origin caption: the man continues to play with the ball while the camera captures him from several angles
+revision caption: many <UNK> and the team continue to play the game and <UNK> their <UNK> and the crowd cheers
+epoch is 36 
+origin caption: a man is standing in a room
+revision caption: a black screen appears with white words that read <UNK> <UNK> and a website for a video
+epoch is 37 
+origin caption: he is chopping up and down on a log
+revision caption: he uses the tool to cut his hedge with his hand
+epoch is 38 
+origin caption: a chef is seen speaking to the camera and leads into a person pouring ingredients into a pot
+revision caption: several shots of ingredients are shown followed by a man speaking to the camera
+epoch is 39 
+origin caption: a group of people are seen playing a game of tug of war with one another
+revision caption: the group continues to play them
+epoch is 40 
+origin caption: a man is seen speaking to the camera and leads into him scraping off a car
+revision caption: a man with a black coat talks the car wheel
+epoch is 41 
+origin caption: the man in the red shirt misses the ball and the ball falls <UNK> his <UNK> then he gets up and walks away
+revision caption: one man jumps up and a stick is shown followed by a man walking in and out of frame and the other man
+epoch is 42 
+origin caption: the man then begins throwing darts at the dartboard
+revision caption: man is standing on a table playing shuffleboard
+epoch is 43 
+origin caption: a man is seen speaking to the camera and leads into him holding a tennis racket and hitting the ball
+revision caption: as they <UNK> a <UNK> a game of soccer are shown
+epoch is 44 
+origin caption: a person is seen riding a surfboard along the water while the camera pans around the area
+revision caption: the man then rides down the river and falls off and flipping around
+epoch is 45 
+origin caption: a man is seen speaking to the camera and leads into him scraping snow off of a car and begins walking around
+revision caption: a car is covered in snow
+epoch is 46 
+origin caption: a woman is sitting on a couch talking to the camera
+revision caption: she continues to put on the nails on the nails and shows off the finished product before showing off the finished product
+epoch is 47 
+origin caption: a man is seen speaking to the camera while holding a stick and leads into him holding a stick
+revision caption: the man continues speaking while the camera pans around the <UNK> ending with a close up of the boy and he continues to talk about it
+epoch is 48 
+origin caption: a woman is standing in front of a kitchen
+revision caption: she mixes ingredients on the oven and put it in
+epoch is 49 
+origin caption: a woman is seen speaking to the camera and leads into clips of dogs on a horse and petting a dogs
+revision caption: a woman in a black coat is talking to someone else with a dog in her hand
+epoch is 50 
+origin caption: he then axes the wood with the ax
+revision caption: a man uses a tool to cut wood into a pile
+epoch is 51 
+origin caption: a young child is seen standing on a mat and then a set of monkey bars are seen
+revision caption: a young child is seen swinging back up a set of monkey bars while moving around
+epoch is 52 
+origin caption: she continues to play with her hair and then it shows off the finished result
+revision caption: the woman continues to blow with a <UNK> then she shows off her hair to the camera
+epoch is 53 
+origin caption: the man then jumps over a bar and onto a mat
+revision caption: various people perform various tricks with a long jump rope
+epoch is 54 
+origin caption: a man is standing behind a bar with ice and <UNK>
+revision caption: a man is standing behind a bar
+epoch is 55 
+origin caption: a man is seen speaking to the camera while holding a stick and leads into him taking off running
+revision caption: he continues to <UNK> lifting weights and positions before rolling it back down
+epoch is 56 
+origin caption: a woman is seen walking into frame dancing and leads into her performing a belly dancing routine
+revision caption: we see the man on the floor again
+epoch is 57 
+origin caption: a man is seen sitting on a chair in a bathroom looking back to the camera
+revision caption: a man is sitting down on the ground
+epoch is 58 
+origin caption: a man is seen bending down and begins walking down a set of weights while gripping tightly
+revision caption: the man then grabs a weight and lifts it to his chest while he squats
+epoch is 59 
+origin caption: a man is seen walking down the beach and leads into a man speaking to the camera
+revision caption: man wearing black shirt serves the ball on the beach and walks away
+epoch is 60 
+origin caption: the man continues speaking while the camera pans to show more shots of him riding the bike and pointing to the man
+revision caption: the man does this again indoors indoors
+epoch is 61 
+origin caption: she is using a towel to dry a bath
+revision caption: she has another dog in her hand
+epoch is 62 
+origin caption: a large group of people are seen riding around on skis and leads into them riding along the water
+revision caption: people sail in the boat on a boat
+epoch is 63 
+origin caption: they are engaged in a game of foosball together
+revision caption: they are engaged in a game of foosball together
+epoch is 64 
+origin caption: the man then begins moving his arms up and down
+revision caption: a man is shown doing several different exercises while a man works out
+epoch is 65 
+origin caption: a woman is seen speaking to the camera while holding up a paintbrush and then proceeds to brush her face
+revision caption: a girl in a black shirt is sitting down talking
+epoch is 66 
+origin caption: a little boy in a blue shirt is sitting on the ground
+revision caption: children bumper cars in a carnival
+epoch is 67 
+origin caption: she then puts the ingredients in the oven and she shows off the ingredients she made in the oven
+revision caption: we see the lady and a lady cooking ingredients
+epoch is 68 
+origin caption: she does a lot of different <UNK> of the swimming pool in the water and the girl does it again
+revision caption: she is doing <UNK> and flips with her <UNK> she goes forward with the baton
+epoch is 69 
+origin caption: he uses the tool to chop the wood
+revision caption: a man wearing a black hat is chopping a wood with an ax
+epoch is 70 
+origin caption: a man is <UNK> on a <UNK> while a man is <UNK> on a <UNK> he is holding a paddle
+revision caption: a man is seen speaking to a camera and leads into a group of people playing a game of paintball
+epoch is 71 
+origin caption: a woman is seen sitting in a kitchen and leads into her cutting ingredients into a bowl
+revision caption: she turns around on the oven and shows it again
+epoch is 72 
+origin caption: a woman with blonde hair and glasses talking
+revision caption: then she puts her hands up and then starts the hoop
+epoch is 73 
+origin caption: more shots are shown of people spraying down the roofs and showing how to clean it
+revision caption: more shots are shown of people spraying down the roofs and looking away from the camera
+epoch is 74 
+origin caption: the person continues cleaning the car with the hose and ending by showing off the camera
+revision caption: a person is then seen driving the car on a car with a hose
+epoch is 75 
+origin caption: the cheerleaders are shown performing various martial arts moves as the camera captures them from several angles
+revision caption: the camera man in the gym shows us talking to each other with a <UNK>
+epoch is 76 
+origin caption: a gymnast is seen standing ready on a stage and performing a routine on the bars while a crowd watches
+revision caption: a black screen with white words on a blue background with white words appear across the screen
+epoch is 77 
+origin caption: a man in a black shirt is talking to the camera
+revision caption: <UNK> they are shown fighting over and over <UNK> several women and a class begin to run and throw their throw all the pins and people begin to talk about their sport
+epoch is 78 
+origin caption: the person continues to <UNK> along with his hands
+revision caption: he then <UNK> the other side of the room
+epoch is 79 
+origin caption: a woman is seen speaking to the camera and leads into her laying down a set of stairs
+revision caption: a woman stands in front of a mirror and begins to wash her face off with a towel and then puts her hands under the water and rubbing the paper on her face
+epoch is 80 
+origin caption: a man stands on a dock
+revision caption: two people wearing scuba gear are sitting at the edge of a boat with their backs to the water
+epoch is 81 
+origin caption: a man is seen sitting in a kayak and speaking to the camera while holding a paddle
+revision caption: he shows that this time in slow motion <UNK> to black
+epoch is 82 
+origin caption: the woman continues brushing with the dog and ending with the camera and showing off the finished shower
+revision caption: the person is moving the carpet all along with some sort of dogs getting hair off
+epoch is 83 
+origin caption: a man is seen speaking to the camera and leads into him holding a tool and pointing to the bushes
+revision caption: several images of bushes are shown
+epoch is 84 
+origin caption: a woman in a blue shirt poses with a ball in a room with a lot of <UNK> and other people in a gym are standing in the middle of the court in gym
+revision caption: woman wearing a red shirt is <UNK> and they all take turns to throw the ball to one another and throw her ball in the air
+epoch is 85 
+origin caption: a man is seen standing in a circle pushing a puck along the water
+revision caption: the man is now practicing the ball that is caught by the net and they are all black and white text
+epoch is 86 
+origin caption: a group of people are seen swimming around a pool and leads into several shots of people playing the game and scoring around
+revision caption: a large group of people are seen swimming around a pool and leads into several shots of people playing the game as well as celebrating and celebrating with a group
+epoch is 87 
+origin caption: the man continues playing the instrument while the camera captures his movements and others
+revision caption: a group of men are standing outside playing bagpipes
+epoch is 88 
+origin caption: a man in a black shirt is sitting down talking
+revision caption: he puts shaving cream on the man's face
+epoch is 89 
+origin caption: a man is raking leaves into a pile of leaves
+revision caption: a woman is raking leaves into a pile of grass
+epoch is 90 
+origin caption: a man is seen standing in front of a large crowd and begins running down a long field in front of others
+revision caption: the man turns to throw the ball and then walks to the other side
+epoch is 91 
+origin caption: a man in a suit is playing the drums
+revision caption: a man in a black shirt is playing a drum set
+epoch is 92 
+origin caption: the boy then begins to rub his hands with soap
+revision caption: the boy continues to brush the boy a bit while holding a rag and looking off into the camera
+epoch is 93 
+origin caption: the people then play a drum set in front of the crowd
+revision caption: the people continue playing with one another while the people stand around them in front
+epoch is 94 
+origin caption: the man continues hitting the ball while speaking to the camera
+revision caption: the man continues speaking to the camera while holding up the ping pong and hitting balls with the ball
+epoch is 95 
+origin caption: he is doing several crunches moves as the camera captures him from several angles
+revision caption: he does it again and shows the proper way in slow motion
+epoch is 96 
+origin caption: he then demonstrates how to properly play the harmonica to the camera while moving his hands up and down
+revision caption: he shows how to play in his hand and demonstrates how to play harmonica
+epoch is 97 
+origin caption: a man in a black shirt is talking about how to prepare a square
+revision caption: man in a black shirt with glasses in the background continues to talk and then runs down a street in a workshop
+epoch is 98 
+origin caption: a man is seen standing on the outside of a building and then begins walking down the street while speaking to the camera
+revision caption: a man is standing in the front of the house talking to his camera and then begins painting on the <UNK> he is standing outside
+epoch is 99 
+origin caption: we see a lady shave her legs with a towel
+revision caption: we see a lady shave her legs with a towel
+epoch is 100 
+origin caption: the man <UNK> the fish and turns around the hole while still talking to the camera
+revision caption: the man grabs a fish and pulls it out to fish
+epoch is 101 
+origin caption: several shots of people are shown performing a jump roping while others watch on the side
+revision caption: then they bow at each other high five and then they hit one another
+epoch is 102 
+origin caption: the man in the orange jacket goes back to the <UNK> and then go back down
+revision caption: a person holding their hand is pushing snow off the board
+epoch is 103 
+origin caption: a man is seen kneeling on a mat and speaking to the camera
+revision caption: a man is seen kneeling on the floor and speaking to the camera
+epoch is 104 
+origin caption: the man continues to ride along the water while the camera captures his movements
+revision caption: the person is shown surfing all along the water while the camera follows him
+epoch is 105 
+origin caption: a man is walking on a grass
+revision caption: the man throws the frisbee over his head and catches it on his dog
+epoch is 106 
+origin caption: the man then begins to take the chain apart and starts working out
+revision caption: a person then begins to take the chain off and begins tightening them
+epoch is 107 
+origin caption: he gets back on the kitchen and takes out the clothes from the tray and puts it on the ground
+revision caption: there are several older women washing a large <UNK> one by one at a time washing dishes
+epoch is 108 
+origin caption: a woman talks about how to wash a <UNK> sink
+revision caption: <UNK> the woman wash and dry her hands with soap wash hands with water and soap to the camera
+epoch is 109 
+origin caption: a man is seen standing in front of a bike speaking to the camera and leads into him riding around a track
+revision caption: the man continues to speak to the camera as more shots are shown of him riding the dirt bike around a track
+epoch is 110 
+origin caption: a woman is seen speaking to the camera while holding a surf board and begins moving her legs around on the beach
+revision caption: the woman continues moving around on the beach shaking her arms and legs and looking off into the distance
+epoch is 111 
+origin caption: the camera pans to a man standing in the back of the <UNK> looking off into the distance and another man standing on the side
+revision caption: people are running around playing paintball guns
+epoch is 112 
+origin caption: a woman is sitting on a bed with a woman next to him
+revision caption: we see a girl holding the ice and eating
+epoch is 113 
+origin caption: the camera pans around the table and the girl moves back to the <UNK> and she pauses to hold the ball back
+revision caption: the girl continues to <UNK> the pinata with her hands and pushing
+epoch is 114 
+origin caption: two people are seen speaking to one another while other people applaud the food
+revision caption: two men are seen holding each other's hands and moving the other way to arm wrestle
+epoch is 115 
+origin caption: the person shows the bottom of the bottom of the ski
+revision caption: they use the brush to wipe the bottom over the top of the ski
+epoch is 116 
+origin caption: he picks it up and down on the ground
+revision caption: he uses an ax to cut a large piece of wood
+epoch is 117 
+origin caption: the man continues swinging around and ends by jumping off the side and walking away
+revision caption: the male athlete jumped from the pole to his routine
+epoch is 118 
+origin caption: car is going in street
+revision caption: car is covered in snow
+epoch is 119 
+origin caption: they are playing a game of tennis
+revision caption: the man in green does a flip in a game of squash
+epoch is 120 
+origin caption: a man is seen sitting before a piano and begins playing a piano
+revision caption: a small child walks into a room where a woman is playing piano together
+epoch is 121 
+origin caption: a group of men are shown and a woman hosting a beer pong table <UNK> with a crowd of people
+revision caption: many people are shown playing <UNK> <UNK> <UNK> dealing <UNK> and computer <UNK> people playing foosball with cups
+epoch is 122 
+origin caption: a man is seen wearing a suit and wiping down a car while others look on
+revision caption: a man then begins brushing his car while looking at the camera from the door
+epoch is 123 
+origin caption: he then mixes the ingredients together and puts them on the plate to create a bit full of cookies
+revision caption: when the eggs he is done putting it into the pan and shows them what he was in it
+epoch is 124 
+origin caption: the person continues pushing the debris up and down the lawn while looking up at the object
+revision caption: the person blows leaves from a walkway and into a pile of leaves
+epoch is 125 
+origin caption: a man stands by talking to the camera and shows several different locations with his feet and legs
+revision caption: we see a skater riding on the street
+epoch is 126 
+origin caption: they show different clips of the people riding <UNK> and flips over in the water as well as surfers before riding waves
+revision caption: <UNK> two people in the water surfing over large huge waves together
+epoch is 127 
+origin caption: the man does a handstand
+revision caption: a man does a handstand move
+epoch is 128 
+origin caption: the girls do a <UNK> and then all of a team in cheerleading and black jump rope doing cheerleading in a <UNK> then jump
+revision caption: the girl continues flipping around and around the stage
+epoch is 129 
+origin caption: the woman wraps up the box and presents it to the camera
+revision caption: the woman then begins cutting the news paper and the woman is shown pointing in the basket
+epoch is 130 
+origin caption: a man wearing scuba gear is underwater
+revision caption: they both looking at their eye sea
+epoch is 131 
+origin caption: the first man is shown again but this time is shown and he is doing a long pole in front of a building
+revision caption: the roof is cleaned of the cleaned up and is shown again by the fence
+epoch is 132 
+origin caption: a man in a black shirt is painting a picture
+revision caption: the man with the black apron uses a sponge brush over paint off a window area for demonstration
+epoch is 133 
+origin caption: the man in blue shirt is playing the game
+revision caption: various clips are shown in slow motion in front of a large group of people playing soccer
+epoch is 134 
+origin caption: a woman is seen standing on a court followed by a person running down a track
+revision caption: a woman is on a concrete court bouncing
+epoch is 135 
+origin caption: the man in the blue shirt throws the ball and the man throw the ball and the man catches the ball and stands on the field
+revision caption: a young man is standing in a netted green circular area
+epoch is 136 
+origin caption: a young man is shown on a basketball court
+revision caption: two young girls are in a gym and a girl in a blue shirt high up against the wall with each other
+epoch is 137 
+origin caption: people are sitting on the couch watching the game
+revision caption: women are arm wrestling in the table again and at the end high each other
+epoch is 138 
+origin caption: she then pierces her eye and holds up a contact lens
+revision caption: the man then pierces the girls tongue and she looks off into the distance
+epoch is 139 
+origin caption: the people continue to dance around one another while the camera pans around their movements
+revision caption: the group then begins dancing with one another while the camera captures them from several angles
+epoch is 140 
+origin caption: the girl continues to hit the ball around while pushing the ball around and around her playing the game
+revision caption: the girl walks around the room while the camera continues to follow her
+epoch is 141 
+origin caption: a group of men are standing on a beach with a ball and walking to the beach
+revision caption: then men the boys begin pulling the rope on a beach helping
+epoch is 142 
+origin caption: a man in a black tank top describes cardio workout on a spin bike
+revision caption: then cool down with cruise speed tension
+epoch is 143 
+origin caption: a man is seen doing various flips and tricks on a gym floor while others watch him
+revision caption: a gymnast prepares to run across bars on a mat
+epoch is 144 
+origin caption: <UNK> the man washes the cloth with his <UNK> then a man stands on top of the sink
+revision caption: <UNK> the man washes the cloth with his <UNK> and then pours water and rinse several times
+epoch is 145 
+origin caption: a woman is standing by an exercise machine
+revision caption: a close up is shown of how to install and moving the machine underneath to the <UNK> ending by several others are shown
+epoch is 146 
+origin caption: a man is seen speaking to the camera while holding up an instrument to another man
+revision caption: the man plays and plays various keys while the camera captures him moving his head up and down
+epoch is 147 
+origin caption: a group of people are gathered on a snowy hill
+revision caption: a group of people are seen going up and down snowy mountains on skis in various locations
+epoch is 148 
+origin caption: we see a man in a blue shirt and a man and a dog in a striped shirt and a man in a striped shirt and a lot of people are walking around and talking
+revision caption: people are playing a game with a man
+epoch is 149 
+origin caption: they are playing a game of water polo
+revision caption: a man in the swimming pool of the water polo tries to make the ball and hits it
+epoch is 150 
+origin caption: the two <UNK> the fight and the men hug each <UNK> and the man on the right side
+revision caption: another boy in a blue shirt and glasses comes to look at the camera while he is doing and why he throws a ball in front of him
+epoch is 151 
+origin caption: a man and woman are dancing on a dance floor while a man in black tops is talking to the camera
+revision caption: we see a title and the lady in the black tank dancing alone
+epoch is 152 
+origin caption: a little girl is standing at the top of a slide with a bat
+revision caption: in the end a boy gives a child from a paint can while he is in the background
+epoch is 153 
+origin caption: a woman is sitting down with her hair cut down
+revision caption: the lady finishes and she sits down
+epoch is 154 
+origin caption: the men continue hitting the ball back and fourth while they continue to play
+revision caption: one man is seen moving a fooseball table around quickly as possible while another man watches on the side
+epoch is 155 
+origin caption: the people continue playing with one another and end by shaking hands with their hands
+revision caption: a large group of people are standing outside of a field watching them play with one another
+epoch is 156 
+origin caption: she then takes out the <UNK> <UNK> and continues to talk before going down
+revision caption: first the young woman is sleeping in her <UNK> then she leaves and then she wakes up her shoes
+epoch is 157 
+origin caption: a man is standing in a <UNK> talking to the camera
+revision caption: a young male is standing outside on a field throwing shot ball down then <UNK> his body
+epoch is 158 
+origin caption: he continues wiping the <UNK> and ends by showing off the final <UNK>
+revision caption: a man is in a snowy parking lot
+epoch is 159 
+origin caption: two people are seen playing with one another while two people walk into frame
+revision caption: they continue to play and two of the men high five
+epoch is 160 
+origin caption: a woman is shown with a large <UNK> spinning around her head and spinning around on a spinning
+revision caption: kids are walking out on the field watching them as they dance
+epoch is 161 
+origin caption: the woman continues dancing all around the court and ends her routine in the end
+revision caption: the woman takes a big <UNK> finishing her dance
+epoch is 162 
+origin caption: the people continue running around one another while the camera pans around their movements
+revision caption: the people continue running around and stop by one another and the camera panning around the area
+epoch is 163 
+origin caption: a man is seen speaking to the camera while holding a surf and clips his arms around
+revision caption: this man is shown standing in front of him and he demonstrates the proper way to the board in front of him
+epoch is 164 
+origin caption: <UNK> the man puts the fish in the hole and the fish <UNK>
+revision caption: <UNK> the man put the fish on a hole while water holds the fish
+epoch is 165 
+origin caption: the glasses are stirred and the two to have glasses over each glasses
+revision caption: lemonade is poured to a glass and sugar into a big glasses on a white plate that has a lot of lemon juice
+epoch is 166 
+origin caption: a man dressed in black and white <UNK> <UNK> and a player in white shirt is playing the game in a <UNK> <UNK> people in the <UNK> <UNK> both <UNK> and the man in the yellow <UNK> play
+revision caption: two player talks about to play and one man is playing
+epoch is 167 
+origin caption: the player serves the birdie to someone between the player and scores
+revision caption: the player serves the birdie to the end and cheer
+epoch is 168 
+origin caption: a person is showing off the nails of the camera
+revision caption: a construction worker presents a shoe on its wrapping paper
+epoch is 169 
+origin caption: two people are shown in a pool and a man sitting in a pool and two of them dives off to the side
+revision caption: the person falls off the board into another swimming pool
+epoch is 170 
+origin caption: the man walks away and we see a man laying on a blue mat
+revision caption: a man jumps off in a pool
+epoch is 171 
+origin caption: the guy then moves the mower and begins to hit the object off into the distance
+revision caption: a guy is outside chopping wood
+epoch is 172 
+origin caption: a woman in a pink shirt is holding a cup in her mouth
+revision caption: a woman in gray pants and her dress in a bucket next to her and they <UNK> in a bucket and the dog stands near them and talking to be <UNK>
+epoch is 173 
+origin caption: the man is then seen helping a piece of paper and lay it down on the floor
+revision caption: the boys continue working around the <UNK> showing off the tiles running over the finished product
+epoch is 174 
+origin caption: she begins to do the <UNK> <UNK> the same way down and putting on her feet
+revision caption: a woman sits on front her knees and <UNK> her
+epoch is 175 
+origin caption: a person is seen holding a tennis racket on a field and hitting a ball across the field
+revision caption: a person is seen holding a tennis racket on a field and hits the ball across the field
+epoch is 176 
+origin caption: the girls break dancing with all the women together and the girl perform with each other across the stage
+revision caption: at the end of her <UNK> she taps on her chest by another about stage
+epoch is 177 
+origin caption: he is then seen moving around in the field as well as speaking to one another
+revision caption: various clips are shown of people playing lacrosse followed by a man holding the stick and speaking to the camera
+epoch is 178 
+origin caption: the girl performs on the beam
+revision caption: the girl lands on her feet with her hands in the air
+epoch is 179 
+origin caption: two men fight robots of <UNK> and ends with a green screen
+revision caption: two men fight robots of <UNK> and ends with a <UNK>
+epoch is 180 
+origin caption: he then demonstrates how to properly cut the knife and the knife shows off what he uses the tool to cut
+revision caption: he walks all around his tools and shows off a kit
+epoch is 181 
+origin caption: she is washing the clothes all around the glass and using it to get all the wet
+revision caption: she rubs down all over the <UNK> then uses a rag and pushing various objects in place to clean
+epoch is 182 
+origin caption: they <UNK> <UNK> and <UNK> on the side of the stage
+revision caption: they continue performing their <UNK> and one with other kicks and performing various dance moves in circles as the pictures continue to dance
+epoch is 183 
+origin caption: she then takes a <UNK> and begins gently with a long stick
+revision caption: a woman in a white shirt is talking in front of a christmas tree
+epoch is 184 
+origin caption: we see the lady taking out the mop and the lady
+revision caption: we then see a lady moping and wringing the mop
+epoch is 185 
+origin caption: a man holds a kite in the air
+revision caption: a dog runs the man as he tries the rope to run and catches the frisbee
+epoch is 186 
+origin caption: the men shake hands and talk
+revision caption: people are sitting on a stage
+epoch is 187 
+origin caption: the boy is <UNK> playing with a <UNK>
+revision caption: the young man started his fingers as to play guitar
+epoch is 188 
+origin caption: the man and woman then begin dancing together
+revision caption: a person walks up the camera
+epoch is 189 
+origin caption: a man is holding a red circle and throwing the ball out into the field
+revision caption: a young male athlete is standing in a field and field in a small circle
+epoch is 190 
+origin caption: a man runs down a track into a pit
+revision caption: a person runs down a track and throws a javelin
+epoch is 191 
+origin caption: a small child is sitting in a chair knitting in a kitchen while a <UNK> in her hands
+revision caption: a boy and girl are sitting in a room with two children dressed as a <UNK> and mother
+epoch is 192 
+origin caption: a group of people stand on a dirt field
+revision caption: a group of bikers stand on the start line
+epoch is 193 
+origin caption: she comes up to the surface and speaks to the camera while several more shots of water are shown
+revision caption: an intro leads into several shots of water steaming and a young woman swimming back and fourth in the water
+epoch is 194 
+origin caption: they <UNK> on their <UNK> as they march in unison
+revision caption: a group of band are on a stage
+epoch is 195 
+origin caption: a man is seen sitting at a table with a woman standing in front of others
+revision caption: another person is seen peeling potatoes and the man walks back over to the table to continue peeling
+epoch is 196 
+origin caption: the woman continues riding the machine and ends by showing her off the screen and smiling
+revision caption: the woman demonstrates how to use the elliptical
+epoch is 197 
+origin caption: we see the man on the end screen and they start to play the game
+revision caption: he jumps up and down the court
+epoch is 198 
+origin caption: a man is shown with a baby and man wearing a shirt from the top
+revision caption: a man is shown inside a <UNK> area in his back and riding on top of a horse bar
+epoch is 199 
+origin caption: the men take the scuba diving gear
+revision caption: the people laugh as they laugh
+epoch is 200 
+origin caption: a man in a blue coat is talking
+revision caption: a <UNK> in a field of dirt and fruit <UNK> with bare branches from the roof of a <UNK> before the <UNK> with the orange shovel dead the ground with a pruning tool and a <UNK>
+epoch is 0 
+origin caption: the boy rinses his face and puts it on his face
+revision caption: the boy rinses the sink with water
+epoch is 1 
+origin caption: <UNK> they continue to ride around the track and end with credits rolling over the <UNK>
+revision caption: <UNK> are shown and they begin to ride down the road
+epoch is 2 
+origin caption: a woman is standing on a concrete court preparing to jump rope over a bar
+revision caption: two women are holding each rope and the girl tries to pull both ropes at once
+epoch is 3 
+origin caption: a boy is shown riding in bumper cars and driving a shot with a stick and a small boy pushing a puck driving down a track and another boy comes to help in the same time
+revision caption: the people continue driving around in the water while others watch on the side
+epoch is 4 
+origin caption: the person continues braiding the hair and the camera pans around the finished product
+revision caption: the person continues braiding the hair and the camera pans away from her face
+epoch is 5 
+origin caption: the boy then takes the drink and walks to the bathroom to rinse it
+revision caption: the boy <UNK> in the direction of the room
+epoch is 6 
+origin caption: other groups of boys on a dock prepare boats for use
+revision caption: eventually sail to a lake on both holding in the <UNK>
+epoch is 7 
+origin caption: a person is seen cutting a piece of roof and shows off the roof of <UNK> <UNK> a work on a roof
+revision caption: he walks down a bit with a long board
+epoch is 8 
+origin caption: the camera continues to zoom while the man continues to play the instrument and moving his arms up and down
+revision caption: two men are seen standing in front of playing the camera
+epoch is 9 
+origin caption: the man holds the coffee open his mouth while still looking away
+revision caption: a man is shown talking to the camera and leads into a young boy holding a stick and beer his face
+epoch is 10 
+origin caption: the camera pans to a woman in a room full of hair and a young girl who is speaking to the camera
+revision caption: the camera pans up to a woman sitting down and she begins talking to the camera and the older girl is shown pointing at her eye <UNK>
+epoch is 11 
+origin caption: the outro screen appears and it's the same white screen that include the words <UNK> <UNK> <UNK> <UNK> and the website on the screen say <UNK> <UNK> and website
+revision caption: the outro screen is now the video is shown again and it shows the new white liquid that is being used in a wooden shop that is <UNK> along with their website and website address as the video is <UNK> along with the website address shown in the end screen
+epoch is 12 
+origin caption: she pours the filter of the vacuum on the vacuum
+revision caption: she then shows how to clean the vacuum <UNK> and the mechanics of the machine
+epoch is 13 
+origin caption: the marching band is playing on the <UNK> with one another while a small group of people watch on the side
+revision caption: the people continue marching down the street while looking and smiling to the camera
+epoch is 14 
+origin caption: she makes her way up to the ground and then jumps down
+revision caption: a girl on a blue shirt is standing on a playground
+epoch is 15 
+origin caption: the people continue playing with one another and ends by clapping with one another
+revision caption: a small group of people are seen standing before a fooseball table with others watching on
+epoch is 16 
+origin caption: a man in a white shirt walks in and starts spinning
+revision caption: the man turns off the camera and stands up
+epoch is 17 
+origin caption: the man then picks up the rubiks cube
+revision caption: once the clock starts to stop again and the man sitting in the chair starts laughing and starts to solve the cube
+epoch is 18 
+origin caption: a person makes a rubik's cube
+revision caption: man stands in a room and playing a game of table
+epoch is 19 
+origin caption: a man is holding a stick
+revision caption: a man takes an ax out of a log
+epoch is 20 
+origin caption: they paddle over the water in the river
+revision caption: they float a small raft in the water
+epoch is 21 
+origin caption: a shot of a beach is shown followed by a girl riding on a camel
+revision caption: many people are seen riding the camels one after another on the sand
+epoch is 22 
+origin caption: a man is standing in front of a door behind his desk and <UNK> it
+revision caption: a man is laying in bed
+epoch is 23 
+origin caption: he is covering his face in a mirror
+revision caption: a man is in front of a mirror
+epoch is 24 
+origin caption: a person is seen standing behind a machine holding up a tool and speaking to the camera
+revision caption: a man uses a tool to push a large window over a roof
+epoch is 25 
+origin caption: a man pushes a swinging on a bridge <UNK> he goes up to the side
+revision caption: a fast motion video shows a young boy beginning to climb across a set of monkey bars
+epoch is 26 
+origin caption: a man in a kilt prepares himself to toss a large hammer in a competition
+revision caption: after the young man <UNK> he swings his arms around and around while he's holding a <UNK>
+epoch is 27 
+origin caption: several shots of food are shown followed by people walking around a beach and leads into people playing tug of war
+revision caption: a large group of people are seen sitting on a beach with various pictures being shown off their distance
+epoch is 28 
+origin caption: a woman in a glasses is talking to the camera
+revision caption: people are eating ice cream ice cream
+epoch is 29 
+origin caption: he puts the contact lens back on his eyes
+revision caption: he is putting in his eye <UNK> he keeps putting
+epoch is 30 
+origin caption: she then squeezes the orange into a clear glass bowl and seasoning it and mixing it together with the previously cut up ingredients
+revision caption: once the man <UNK> a <UNK> and begins <UNK> the woman serves again and serves the omelette and serves again
+epoch is 31 
+origin caption: a man is wearing a black and white hat and a black shirt is standing in the middle of the sand
+revision caption: athletes are wrestling in a ring
+epoch is 32 
+origin caption: the man gets more and grabs the girl
+revision caption: <UNK> the man gets the <UNK> in his <UNK> and continues
+epoch is 33 
+origin caption: the lady spins and catches her <UNK> and the audience catches <UNK>
+revision caption: women begin to play tug of war routine
+epoch is 34 
+origin caption: the man then gets in the back of the horse in the back and forth against the horses and when he is <UNK> the lady walks away and the man in the red shirt is talking to the camera
+revision caption: the man stands in the middle applauding the riders and the girl enters
+epoch is 35 
+origin caption: the man begins to play the rubix cube to make a <UNK> on the table
+revision caption: he finishes the cube and takes off the puzzle in the end
+epoch is 36 
+origin caption: a man speaks to the camera about a large rock
+revision caption: a man gets off into riding on a kayak by himself
+epoch is 37 
+origin caption: the men continue riding all along the water while a woman speaks to the camera and watches
+revision caption: a large wave is shown followed by a person standing up on a surf board
+epoch is 38 
+origin caption: a person is seen riding down a slide and text appears across the screen
+revision caption: children run up and down the side and continue to ride down the slide
+epoch is 39 
+origin caption: the boy pass on front the house and continues mowing his lawn
+revision caption: a boy in young boy drives a small tractor lawn mower around the yard of a house maneuvering around obstacles
+epoch is 40 
+origin caption: the woman blow dry her hair and is now <UNK>
+revision caption: we see a title card screen appears on a black screen
+epoch is 41 
+origin caption: people are playing a game of polo in a field
+revision caption: four men are outside in a field of grass
+epoch is 42 
+origin caption: the woman then puts the decorations all around the room to complete it off and then moves back to to the left side of the screen
+revision caption: a woman is sitting on a chair while she pulls a thin carpet cleaner in front of <UNK> and applies it to a small dresser that is also in front of her
+epoch is 43 
+origin caption: the people in the back falls down the floor
+revision caption: people are doing a gymnastic in front of a crowd in gym
+epoch is 44 
+origin caption: a woman is seen standing in front of a sink washing dishes and with a bottle of water
+revision caption: a camera shows a young woman wearing white clothes is shown washing a glass with various dishes
+epoch is 45 
+origin caption: they are playing a game of water polo
+revision caption: they are playing a game of water polo
+epoch is 46 
+origin caption: the woman uses the <UNK> then brushes the dog in a <UNK> then returns to run away
+revision caption: a woman holds a dog and take the wet dog to get on a <UNK> after
+epoch is 47 
+origin caption: he uses a razor to speak to the camera
+revision caption: he rubs his face and shows off his face with a towel
+epoch is 48 
+origin caption: they then stop and begin to dance on the <UNK> doing their own thing and they both go back and forth on the mat
+revision caption: they <UNK> and begin their <UNK> fighting over and over again
+epoch is 49 
+origin caption: the people skate through the road where there are no cars driving
+revision caption: there are several people skating on the main road in the downtown area of a city at night
+epoch is 50 
+origin caption: they put the wheels together to put them on the bike
+revision caption: the pieces bike is now against the ground under the words describing the bottom of the screen
+epoch is 51 
+origin caption: a man in a black shirt is playing pool
+revision caption: two men are playing ping pong <UNK> one is wearing a white shirt inside the room and the <UNK> in the living room is <UNK> to the center of two people
+epoch is 52 
+origin caption: the man stands on the sidewalk <UNK> picks the ball and stands at the bottom of the hopscotch
+revision caption: the man skates forward a camera indoors and we see one walking up
+epoch is 53 
+origin caption: a man is doing a gymnastic routine on the parallel bars
+revision caption: a panning up is shown of the inside a gym as a man kneeling down on a red mat
+epoch is 54 
+origin caption: he then uses his brush to remove the snow from the top of the car to clean the <UNK> off of the <UNK> <UNK> the top of the door covered <UNK> also shows the inside of his car
+revision caption: he gets a spare from the ice cream again
+epoch is 55 
+origin caption: a woman is brushing her teeth in a bathroom
+revision caption: the woman brushes her teeth
+epoch is 56 
+origin caption: the man then sprays the window with windex and moves the ladder down the wall with <UNK>
+revision caption: the man then brushes along the sides and begins speaking to the camera and showing off the window while the man continues to speak more
+epoch is 57 
+origin caption: the dance is over and over again and they all come onto the stage and begin dancing in unison
+revision caption: then the dance hula hoop and goes over and over her on the ground in front of a band
+epoch is 58 
+origin caption: a dog is shown outside in a field with many people watching on the sidelines
+revision caption: they then show the bottom of the <UNK> as well as the clips of horse and <UNK>
+epoch is 59 
+origin caption: the woman is then seen talking to the camera and begins showing how to properly spaghetti
+revision caption: she stirs the <UNK> and then pours it in a bowl before the final product
+epoch is 60 
+origin caption: the kids move the ball back and fourth while the camera pans to a man in the background
+revision caption: the kids are then seen playing a game of volleyball against one another
+epoch is 61 
+origin caption: man is standing in a green field preparing himself to make a cricket <UNK> ball is <UNK>
+revision caption: still shot and pictures of the man
+epoch is 62 
+origin caption: the winner is standing up
+revision caption: he is then shown in front of a crowd as people walking down all around the table
+epoch is 63 
+origin caption: a small child is seen climbing up a playground with a baby <UNK> in front of a large building
+revision caption: he climbs up the <UNK> trying to keep up
+epoch is 64 
+origin caption: she does several flips on the beam
+revision caption: she does a gymnastics routine on the balance beam
+epoch is 65 
+origin caption: a boy slides down a hill
+revision caption: children and an adult stand in line
+epoch is 66 
+origin caption: a man on a tractor pushing the machine back and forth
+revision caption: a man on a bike looks <UNK> and laughs and the man eventually steps out of the machine
+epoch is 67 
+origin caption: three girls are seen running out in front of them running down a road
+revision caption: a man is standing in front of them holding a camera
+epoch is 68 
+origin caption: the girl flips and dismounts and lands on the mat
+revision caption: a girl gymnast performs balance beam and spins many flips on the balance beam to do a routine
+epoch is 69 
+origin caption: a man in a black suit is sitting down in front of a chair
+revision caption: another man is seen dancing around in the background while the camera pans around to more people solving cubes
+epoch is 70 
+origin caption: a person on a <UNK> on a snowboard covered hill of a jump rope and some other children of a tube
+revision caption: a woman slide the boy and she falls down the slope several times while people sit on the ice slide
+epoch is 71 
+origin caption: she is then seen cutting up various ingredients and mixes various ingredients together
+revision caption: she pours more ingredients in and out of the oven
+epoch is 72 
+origin caption: a man is seen kneeling onto the side of a roof and begins using a tool to another roof
+revision caption: a man is seen speaking to the camera while holding up a tool
+epoch is 73 
+origin caption: the man throws the rope and catches the <UNK> <UNK> the cow up and returns back on the horse
+revision caption: the man throws the rope and catch it <UNK> the cow it <UNK> and throws it as the man catches it
+epoch is 74 
+origin caption: man is cleaning the metal with a pressure washer and dry
+revision caption: there are two cars in the car wash and one parked in a spot
+epoch is 75 
+origin caption: she jumps off the bars and lands on a mat
+revision caption: a lady gymnast dressed in black leotards is performing gymnastics on bars
+epoch is 76 
+origin caption: one of the boys takes the drink off and he grabs the ice cream
+revision caption: a boy joins her and talk ice cream
+epoch is 77 
+origin caption: the camera pans down to a girl sitting and smoking a cigarette as the woman leans over her face
+revision caption: the camera pans over to the boy's leg showing one of his friends shaving the hair off his leg with an electric razor
+epoch is 78 
+origin caption: a man is seen speaking to the camera and leads into a woman speaking to the camera and leads into several shots of him wake boarding as well
+revision caption: a man is seen speaking to the camera that leads into several clips of people wake boarding
+epoch is 79 
+origin caption: there are two white asian <UNK> on the sidewalk <UNK> people holding paint balls to fence the outside of the store
+revision caption: she is playing a wooden hair <UNK> a long wooden <UNK> <UNK> with a <UNK> on a sidewalk
+epoch is 80 
+origin caption: the marching band is pictured in a pink field
+revision caption: the marching band walk out into each other
+epoch is 81 
+origin caption: he then plays a song on the guitar
+revision caption: a man sits in front of a bed
+epoch is 82 
+origin caption: the people continue to kick around the pool with one hitting the ball and back while the camera captures him
+revision caption: the goalie then dips deep underwater
+epoch is 83 
+origin caption: two men are seen speaking to one another and leads into a woman standing behind a large building
+revision caption: other men begin to play with one another
+epoch is 84 
+origin caption: a man is seen pushing a tire off a car and begins checking it on the ground
+revision caption: a man is seen speaking to the camera while it pans around a large man
+epoch is 85 
+origin caption: a man in a kayak is going against the water current
+revision caption: a man in white and gray <UNK> is sitting in a single orange raft
+epoch is 86 
+origin caption: a woman is seen speaking to the camera while holding onto a piece of exercise equipment with her arms
+revision caption: she moves the machine back and fourth while still laughing and smiling to the camera
+epoch is 87 
+origin caption: she dismounts and lands on the mat with her hands in the air
+revision caption: a gymnast mounts a low beam in a gym
+epoch is 88 
+origin caption: a close up of a house is seen that leads into several clips of people holding paint
+revision caption: there are paint cans sitting on the floor
+epoch is 89 
+origin caption: she then bends down and grabs the paper from back to look on the <UNK> ironing <UNK> to the camera
+revision caption: a lady is walking the stairs and the top of a door is shown
+epoch is 90 
+origin caption: a man is seen wearing a purple and grey outfit down a wall and begins with a man speaking to the camera
+revision caption: a man is kneeling down on the ground sanding a wall with a silver utensil
+epoch is 91 
+origin caption: <UNK> <UNK> begins to bring the objects up while the man continues to speak to the camera and smile
+revision caption: <UNK> to make a campfire with <UNK> appears on screen
+epoch is 92 
+origin caption: a camera pans all around a sky while the woman and leads into a man wake boarding
+revision caption: more people perform tricks and one fall off the <UNK> immediately climbing back on
+epoch is 93 
+origin caption: a woman is talking to the camera while standing on a horse
+revision caption: the rider <UNK> the horse with a woman leans while the others talks to the camera
+epoch is 94 
+origin caption: the man holds his fingers up and throws it into the air between him
+revision caption: a man talks while holding bagpipes
+epoch is 95 
+origin caption: she then begins brushing the woman's hair with the camera
+revision caption: she finishes brushing the woman's hair and looks back to the camera smiling
+epoch is 96 
+origin caption: a male coach is standing outside near a table with a lot of <UNK> <UNK> people dressed in <UNK> painting school
+revision caption: then a young boy is shown speaking to the camera one more holding a microphone and the man wearing a hat on the right foot his hands
+epoch is 97 
+origin caption: the camera pans around the car to show the tire back and fourth to the ground
+revision caption: a man is seen kneeling down next to a car while speaking to the camera
+epoch is 98 
+origin caption: the man continues playing and the video leads into him playing a guitar
+revision caption: the leads into a man playing a long guitar in front of a home while moving his fingers up and down
+epoch is 99 
+origin caption: the woman is now holding a nail polish to her nails
+revision caption: finally they use tape to make a <UNK> are wrapped around the side of their nails
+epoch is 100 
+origin caption: a person is then measuring out a mop from the floor
+revision caption: the person removes <UNK> on the floor using a cloth with a special solution
+epoch is 101 
+origin caption: the man then throws the dart in slow motion while the camera continues to follow him
+revision caption: a man is seen standing ready holding a dart and looking off into the distance
+epoch is 102 
+origin caption: she stands in front of the tree holding an tree
+revision caption: three women are talking in front of the tree
+epoch is 103 
+origin caption: one of them only has one arm and she surfs so he <UNK> gets up and starts going in the wind by the second group of the wind
+revision caption: one of them gets dressed as she is following and falls down as she walks away
+epoch is 104 
+origin caption: she has a sponge in her hand
+revision caption: she has orange and yellow paint on a board in front of her
+epoch is 105 
+origin caption: the men continue to hit the ball around and hitting the ball around
+revision caption: two men are seen standing around a large gymnasium and leads into a room of people standing
+epoch is 106 
+origin caption: the camera returns to the group of men performing gymnastics tricks on a <UNK> while others in <UNK> with their website shown
+revision caption: the camera returns to the next room showing <UNK> different <UNK> different <UNK> falling <UNK> as well as talking to the camera
+epoch is 107 
+origin caption: a small girl is washing the floor
+revision caption: a young girl is washing the floor with a mop and talking to the camera man
+epoch is 108 
+origin caption: the girl and her start doing a hand movements and a small child is shown in several <UNK> enjoying the food in her hand in white shirt
+revision caption: the adult stops cutting and another boy continues to cut the objects very to be <UNK>
+epoch is 109 
+origin caption: the man continues to take drags out of the cigarette while blowing the smoke off into the camera
+revision caption: the man continues to take all of his cigarette up and down while looking into the camera
+epoch is 110 
+origin caption: next she <UNK> them up and <UNK> her <UNK>
+revision caption: after it's <UNK> she laughs at the camera
+epoch is 111 
+origin caption: a woman is in front of a mirror
+revision caption: a woman sits down and puts eye liner on the girl
+epoch is 112 
+origin caption: she starts ironing a blue towel
+revision caption: she picks up a box from a box
+epoch is 113 
+origin caption: we see the ending title screen
+revision caption: we see the interior of the boat then see the camera operator
+epoch is 114 
+origin caption: the woman then puts the dough in a bowl and pours water in the bowl
+revision caption: ingredients are added to make dough that go to make lemonade
+epoch is 115 
+origin caption: the man then rubs down the <UNK> after an <UNK> the woman puts a garment on the side
+revision caption: a man is seen standing in front of a sink scrubbing it down with a sponge
+epoch is 116 
+origin caption: a person in a white shirt is standing against he hits the tennis ball
+revision caption: then a man wearing a black shirt serves the ball and he is done by another man who serve the tennis ball
+epoch is 117 
+origin caption: <UNK> the person spreads soap on the car
+revision caption: <UNK> the person cleans the cars with soap on a car
+epoch is 118 
+origin caption: the man bend the other leg and stretch it
+revision caption: the man bend the other leg and stretch it
+epoch is 119 
+origin caption: a man is seen speaking to the camera that leads into clips of people throwing and him
+revision caption: a man is seen speaking to the camera an leads into clips of him demonstrating martial arts with another man
+epoch is 120 
+origin caption: he explains that this video is shown with images of washing his supplies
+revision caption: the man opens the bag of a shoe and brushes of the shoe again
+epoch is 121 
+origin caption: the video ends with a still image of the title logo
+revision caption: he is then shown playing again as well as more tools being shown
+epoch is 122 
+origin caption: the man finishes and walks away
+revision caption: the man gets more plaster and swipes the wall paper
+epoch is 123 
+origin caption: the person blows the leaves from a driveway using an electric blower
+revision caption: the outro appears is seen of various tools and different clips are shown of the <UNK> as well with some text appears on it
+epoch is 124 
+origin caption: he walks all around the house and stops to look up and walks around
+revision caption: he begins blowing the leaves off of his yard for fall <UNK>
+epoch is 125 
+origin caption: a person is seen lying on the ground with another person running from behind
+revision caption: a person is seen lying on the ground with another person running from behind
+epoch is 126 
+origin caption: the next scene shows a team of cricketers wearing a white jersey and holding a large <UNK> into the air
+revision caption: the video shows two countries represented by blue and green uniforms playing the game of cricket professionally
+epoch is 127 
+origin caption: a cow is riding on a white horse
+revision caption: it comes to help the cow off the horse when the bull is done by the cow
+epoch is 128 
+origin caption: the lady points to trim the bush in her hand
+revision caption: the lady kneels down to complete the tree
+epoch is 129 
+origin caption: once they have stop <UNK> and tries to walk the public <UNK> he missed first they he falls off and they have long <UNK> and they win
+revision caption: two little kids are outside on a driveway talking to one another
+epoch is 130 
+origin caption: the camera pans out to a group of players playing on a soccer match
+revision caption: the camera pans in on a volleyball player while she plays a game with others
+epoch is 131 
+origin caption: the man and the woman speak to the camera
+revision caption: the man climbs all the way down the pool and a boy speaks to the camera
+epoch is 132 
+origin caption: the manicurist starts to put little fun decorations to make the nail look pretty
+revision caption: the manicurist puts some black plastic on her hand and then applies a little bag of red glitter
+epoch is 133 
+origin caption: the man then gets off of his bucket and while on his fishing pulls his fishing gear back in the air and he's fishing
+revision caption: the man then gets off of his fishing and puts his fishing in on his fishing hole in the fishing hole
+epoch is 134 
+origin caption: several people are shown playing the game around them and panning to the audience reacting as well as people standing on the sides
+revision caption: several people are shown playing the game around them and panning to the audience reacting as well as people standing on the sides
+epoch is 135 
+origin caption: the girl brushes her teeth and spit soap and rinse her toothbrush and spit out the toothbrush
+revision caption: the girl turns on the faucet and rinses her mouth with water and then shows how to properly clean
+epoch is 136 
+origin caption: he performs several more tricks and ends with them jumping off to the side
+revision caption: a gymnast is seen climbing onto a set of uneven bars and performing a routine while many watch on the side
+epoch is 137 
+origin caption: a man is seen walking down a field holding a lacrosse stick in his hand
+revision caption: the man continues to hit the ball around as well as bend down and measure out his movements
+epoch is 138 
+origin caption: the guy then begins playing paintball on his skateboard and demonstrating how he's of he skates slowly towards the lake
+revision caption: a male that is holding a skateboard while is playing hopscotch
+epoch is 139 
+origin caption: a man in a black shirt is talking into an ice rink
+revision caption: the man in yellow throws to another man next to him
+epoch is 140 
+origin caption: a woman is sitting in a chair with a woman in her dress <UNK> her
+revision caption: the woman sits and has the hairdresser work her <UNK> in under ten minutes
+epoch is 141 
+origin caption: she continues brushing the horse in various spots and ends with her feeding the horse
+revision caption: a close up of a horse is shown followed by a woman walking into frame and brushing the horse
+epoch is 142 
+origin caption: the race <UNK> the bikers bike and race in the race track where they jumped and hopped and went to the <UNK> the one <UNK> when he reached the finish <UNK> he fell on his side and stood up and walked towards the people
+revision caption: the race <UNK> the bikers bike and race in the race track where they jumped and hopped and went to the <UNK> the one <UNK> when he reached the finish <UNK> he fell on his side and stood up and walked towards the people
+epoch is 143 
+origin caption: the man continues shaving and shows off his before and after pictures
+revision caption: a man is seen speaking to the camera while holding up hair and begins shaving off his facial
+epoch is 144 
+origin caption: a woman is standing in a room talking
+revision caption: a woman is standing in a room talking
+epoch is 145 
+origin caption: a camera pans over several landscapes located in the desert as well as the night sky moving around
+revision caption: people are then seen riding around on a boat through a tough river and end with a plane flying over the area
+epoch is 146 
+origin caption: a gymnast is seen jumping onto a set of uneven bars and performs a gymnastics routine on the bars
+revision caption: both the contestants successfully jump over the bar
+epoch is 147 
+origin caption: he puts polish over the shoe and puts one shoe in the middle
+revision caption: he points around the shoe and flips the shoe around with his hands
+epoch is 148 
+origin caption: she moves her arms out as she is demonstrating how to properly perform moves
+revision caption: she moves side to side as she goes
+epoch is 149 
+origin caption: a group of people stand around in a room
+revision caption: a group of people stand in front of a blackjack table
+epoch is 150 
+origin caption: <UNK> the man grabs a cup and <UNK> after he leaves
+revision caption: <UNK> the man grabs a cup and <UNK> after he leaves
+epoch is 151 
+origin caption: people are eating ice cream cones
+revision caption: a person puts ice cream into an ice cream cone
+epoch is 152 
+origin caption: another shot of people riding down a river on tubes is shown followed by people walking on the beach
+revision caption: another shot of people riding down a river on tubes is shown followed by several shots of people on the <UNK> looking off into the camera
+epoch is 153 
+origin caption: he jumps off the beam and lands on the mat
+revision caption: he dismounts himself high up in the air and lands on his face
+epoch is 154 
+origin caption: a large bow is in shown and a red shirt is standing behind a bar with various tools and on front a piece of <UNK>
+revision caption: a man is shown pulling back and arrow and letting it
+epoch is 155 
+origin caption: the woman dismounts from the beam
+revision caption: the woman then performs a gymnasts routine while using batons
+epoch is 156 
+origin caption: a girl is applying something to the ground
+revision caption: a brunette room of the wall and two different boys are using their leg and talking
+epoch is 157 
+origin caption: he throws it over a beam and onto a field
+revision caption: a man is outside on a track
+epoch is 158 
+origin caption: they both the floor working together in the gym
+revision caption: the person shows how to make the tiles using foam as he uses a tool to clean before installing
+epoch is 159 
+origin caption: she walks away with her arms as she watches
+revision caption: an athletic woman is seen standing ready holding a pole in her hands and looking down the ground
+epoch is 160 
+origin caption: <UNK> the cheerleaders exercise and also talk
+revision caption: two women in a gym talks to a man in a black shirt talk
+epoch is 161 
+origin caption: she adds a small red pepper to the pan inside the pot she shows an plate to the cake <UNK> <UNK> mix them onto the cake
+revision caption: a woman is talking about how to make a salad
+epoch is 162 
+origin caption: the credits of the video are shown
+revision caption: the words <UNK> machete <UNK> appears on screen
+epoch is 163 
+origin caption: he continues riding along through the water
+revision caption: a person is seen riding a surfboard with a kite on top along the water
+epoch is 164 
+origin caption: the crowd applauds for him and they are all gathered for his <UNK>
+revision caption: the audience then begins to start the routine
+epoch is 165 
+origin caption: the first girl is back in the first place
+revision caption: the friend is pushed along the side of a building and starts down the slide in between himself and they are top into a garage
+epoch is 166 
+origin caption: a hand holds a mop out of a bucket and puts the mop on a floor
+revision caption: a person mops a <UNK> with the camera only picking up part of the wall
+epoch is 167 
+origin caption: a little girl is playing with another <UNK> an by
+revision caption: <UNK> a woman and a girl playing rock is shown on the screen
+epoch is 168 
+origin caption: a little dog follows and the dogs plays
+revision caption: a large dog is walking down the street
+epoch is 169 
+origin caption: a man is throwing darts at the dart board
+revision caption: another man steps up to the camera and the men behind him quickly hit the board
+epoch is 170 
+origin caption: the boy then falls on his face and cries
+revision caption: a boy is seen swinging back and looking back to speak to the camera
+epoch is 171 
+origin caption: the person then vacuums the rug in a vacuum manner
+revision caption: a camera pans all around a vacuum close up and shows a person's feet
+epoch is 172 
+origin caption: a camera pans around the beach and leads into people sitting on a beach
+revision caption: a large kite is seen flying over a beach with people wandering around on the sides
+epoch is 173 
+origin caption: they are arm <UNK> <UNK> and turning on the bar
+revision caption: she laughs and covers her mouth
+epoch is 174 
+origin caption: a woman is sitting down on a chair in a gym room and talking to the camera and sitting inside a gym room
+revision caption: the woman demonstrates how to do sit ups on the floor using a woman and a <UNK>
+epoch is 175 
+origin caption: the cookies are cut out of the oven they are done
+revision caption: the cookies are cut out of the dough
+epoch is 176 
+origin caption: a man is sitting down on the guitar at a microphone
+revision caption: the man plays the guitar
+epoch is 177 
+origin caption: the ending shows a beautiful picture of a sun set
+revision caption: a close up of a canoe is shown followed by a man pushing the canoe along in various areas
+epoch is 178 
+origin caption: man in gray demonstrates how to stand and sit
+revision caption: man in gray demonstrates different steps jumps to the stands
+epoch is 179 
+origin caption: the boy in the white suit <UNK> the boy throws the ball into the air and hits him again
+revision caption: a black screen appears and white words on the screen say <UNK> <UNK> <UNK> <UNK> <UNK> <UNK> <UNK>
+epoch is 180 
+origin caption: he begins playing the saxophone in the end of his mouth
+revision caption: a man in a black shirt is holding a saxophone
+epoch is 181 
+origin caption: a weightlifter lifts over his head before a weight fall off the weight and his face down with the punching <UNK> lifts a bar <UNK> of her coach while her <UNK> <UNK> the weight on the ground and raises her <UNK> weight to the right hand and over again
+revision caption: a weightlifter lifts at the center of <UNK> lifts <UNK> drops her head then lift the weight on the floor and above them over his head
+epoch is 182 
+origin caption: the boy then solves the cube and pans the camera back to show his time
+revision caption: the boy then solves the cube and pans the camera back to show his mouth
+epoch is 183 
+origin caption: a group of women stand in a room with two arms in a line holding a group of women
+revision caption: the women dance above the group continuously
+epoch is 184 
+origin caption: more clips are shown of people hitting the ball and ends with the man speaking to the camera
+revision caption: more clips are shown of people playing the game as well as the host speaking to the camera
+epoch is 185 
+origin caption: the gymnast goes around the large track and flips the jump and does flips
+revision caption: a gymnast is doing flips and handsprings on a high bar
+epoch is 186 
+origin caption: the man kisses the fish and releases it into the hole
+revision caption: the man unhooks the fish and catches it around
+epoch is 187 
+origin caption: the other men all join and one is <UNK> in and out of the door
+revision caption: a group of men are sitting outside playing instruments
+epoch is 188 
+origin caption: a person in a red shirt is working out an an exercise machine
+revision caption: a man in a red shirt is working out an an exercise machine
+epoch is 189 
+origin caption: the man shows us the finished product
+revision caption: the man shows us the finished product
+epoch is 190 
+origin caption: he grips the the rope super tight with his feet while he rides toward
+revision caption: he has trouble balancing on <UNK> is standing at one spot
+epoch is 191 
+origin caption: women are swimming in a pool jumping on a diving board
+revision caption: a diving board is shown across a pool as people in slow motion
+epoch is 192 
+origin caption: a man in a blue shirt picks up a pinata that has a lot of baby dressed in the blue running
+revision caption: we see kids playing tug of war in a field
+epoch is 193 
+origin caption: the girl then moves to the middle of the lawn and begins running across the lawn
+revision caption: a woman is seen standing in a yard with a lawn mower in front of her
+epoch is 194 
+origin caption: a man is seen looking off into the distance with another man speaking to the camera
+revision caption: a man in a red shirt is sitting down
+epoch is 195 
+origin caption: the fire is over again
+revision caption: next hand is being put on fire and put it up and put it on the floor
+epoch is 196 
+origin caption: they are playing a game of tennis
+revision caption: they are playing a game of tennis
+epoch is 197 
+origin caption: she falls to the ground
+revision caption: the girl then walks away from the camera while the camera pans around the yard to the camera
+epoch is 198 
+origin caption: he shows his hand he has the darts
+revision caption: a man is throwing darts at a dart board
+epoch is 199 
+origin caption: the man then moves his hedge cutter and concentrates on the top of the hedges
+revision caption: the man then moves his hedge cutter and concentrates on the top of the hedges
+epoch is 200 
+origin caption: a man in a suit and glasses is talking
+revision caption: a man teaches the proper way to get a mouthpiece on a saxophone
